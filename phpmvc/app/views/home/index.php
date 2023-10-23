@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container mt-5">
     <div class="jumbotron mt-4">
     <h1 class="display-4">Selamat Datang di Webstie Saya!</h1>
     <p class="lead">Halo, nama saya <?= $data['nama']; ?></p>
